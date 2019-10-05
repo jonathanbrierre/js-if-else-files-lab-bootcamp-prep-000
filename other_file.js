@@ -1,2 +1,2 @@
-var index = require("./index.js")
-console.log(name)
+var poop = require("./index.js")
+console.log(poop.name)
